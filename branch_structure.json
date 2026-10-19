@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/agent-tool-history",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/agent-tool-history": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/agent-tool-history",
+    "origin"
+  ]
+}
